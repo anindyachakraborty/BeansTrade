@@ -1,0 +1,2 @@
+# BeansTrade
+NodeJS Project
